@@ -7,4 +7,6 @@ I'm Guido. Frondend developer by day, designer by night. I design and build webs
 
 # Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ballenbak&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ballenbak&redirect=true)
+<p align='center'>
+    <img src='https://spotify-github-profile.vercel.app/api/view?uid=ballenbak&cover_image=true&theme=compact&show_offline=true'> 
+</p>
