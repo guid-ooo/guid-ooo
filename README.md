@@ -4,9 +4,3 @@ I'm Guido. Frondend developer by day, designer by night. I design and build webs
 
 [![Stack](https://skillicons.dev/icons?i=html,css,sass,php,mysql,js,ts,svelte,tailwind,threejs,wordpress,postman,figma,supabase,github,git,svg,sqlite,ableton,arduino,blender)](https://skillicons.dev)
 
-
-# Spotify
-
-<p align='center'>
-    <img src='https://spotify-github-profile.vercel.app/api/view?uid=ballenbak&cover_image=true&theme=compact&show_offline=true'> 
-</p>
